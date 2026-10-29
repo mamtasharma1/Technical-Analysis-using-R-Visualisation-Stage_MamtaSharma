@@ -34,12 +34,9 @@ The 20-period simple moving average is treated as the short-term average and the
 
 ## Submission checklist
 
-- [ ] Add your full name and submission date to `Cover_Page.md`.
-- [ ] Create a public GitHub repository for the assignment.
-- [ ] Upload `app.R`, `README.md`, and the completed cover page.
-- [ ] Replace the repository placeholder on the cover page with your actual repository URL.
-- [ ] Run the application and verify that the charts and signals display.
-- [ ] Submit the cover page and repository link according to the LMS instructions.
+- [ ] Added the name and submission details to `Cover_Page.md`.
+- [ ] Created a public GitHub repository for the assignment.
+- [ ] Uploaded `app.R`, `README.md`, and the completed cover page.
 
 ## Limitations
 
