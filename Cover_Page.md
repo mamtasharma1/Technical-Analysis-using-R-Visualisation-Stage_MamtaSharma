@@ -2,11 +2,11 @@
 
 ## Assignment 6: Technical Analysis using R — Visualization Phase
 
-**Student name:** [Enter your full name]  
+**Student name:** Mamta Sharma
 **Course:** BDA400 — Data Science Tools and Techniques  
 **Assignment:** Assignment 6 — Visualization Phase  
-**Submission date:** [Enter submission date]  
-**Assignment repository URL:** [Paste your public GitHub repository URL here]
+**Submission date:** 28/10/2026 
+**Assignment repository URL:** https://github.com/mamtasharma1/Technical-Analysis-using-R-Visualisation-Stage_MamtaSharma
 
 ### Project description
 
@@ -21,4 +21,3 @@ This project implements an interactive stock portfolio dashboard using R Shiny. 
 
 Open `app.R` in RStudio and click **Run App**, or run `shiny::runApp()` from the project directory. The application requires internet access to download market data from Yahoo Finance.
 
-**Important:** Replace the placeholders above with your own details and add your real GitHub repository URL before submitting. The dashboard is for educational purposes and is not investment advice.
